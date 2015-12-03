@@ -1,4 +1,5 @@
 {
   "name" : "jquery-scrollspy"
   , "version" : "0.1.2"
+  , "main" : "scrollspy.js"
 }
